@@ -5,7 +5,7 @@ Inventory management system for the web.
 
 | Programming Languages |  | Libraries & Technologies |
 | ------------- |:-------------:|:-------------:|
-| Java | :arrow_right: | JEE, JPA, Hibernate |
+| Java | :arrow_right: | JEE, JPA, Servlet, Hibernate |
 | SQL | :arrow_right: | MySQL |
 | Front | :arrow_right: | JSP, Js, jQery, Ajax |
 
