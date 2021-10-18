@@ -1,5 +1,5 @@
 # Inventory Management Project
-Inventory management system for the web.
+Inventory management system for the web. In this project the goal is to create a warehouse platfrom which feautures abbilities like selling different kind of products to customers, listing customers, products and orders, dealing with cash actions (payment entiries and payment outs) by using Java, Servlet, Hibernate, MySQL, JavaScript and HTML. Users must be sign in to the application in order to use website facilities.
 
 ## Technologies Libraries and Frameworks
 
